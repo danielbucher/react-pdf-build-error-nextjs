@@ -1,3 +1,5 @@
+import "core-js/proposals/promise-all-settled";
+import "core-js/proposals/promise-with-resolvers";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
